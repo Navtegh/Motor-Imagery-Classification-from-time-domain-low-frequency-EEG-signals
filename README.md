@@ -75,7 +75,7 @@ Contributions to this project are welcome! Please refer to the CONTRIBUTING.md f
 - [EEGNet](https://eegnet.org/index.html)
 
 ## 😇: Other Contributors
-- [Stuti Wadhwa]([https://github.com/stuti2403](url))
+- [Stuti Wadhwa](https://github.com/stuti2403)
 - Inayat
 - Sahil Rohilla
 - Himank Tuteja
